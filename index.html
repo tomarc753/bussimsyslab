@@ -57,11 +57,11 @@
     </style>
 </head>
 <body>
-    <h1>Bus Simulation for Reroute Algorithms</h1>
+    <h1>Bus Reroute Simulation</h1>
 
     <div class="map-panel">
         <div id="map"></div>
-        <textarea id="busstats" placeholder="Bus Statistics"></textarea>
+        <input id="busstats" type="text" placeholder="Bus Statistics" readonly/>
     </div>
 
     <h2>Simulation Controls</h2>
@@ -83,7 +83,8 @@
             <option value="4">2x</option>
             <option value="5">5x</option>
         </select>
-        <textarea id="logs" placeholder="Simulation Logs"></textarea>
+
+        <input id="logs" type="text" placeholder="Simulation Logs" readonly/>
     </div>
 
     <button id="incident" style="display: block; background-color: red; color: white; margin: 20px auto;">Trigger Incident</button>

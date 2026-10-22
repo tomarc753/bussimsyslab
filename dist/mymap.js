@@ -14,5 +14,3 @@ var Esri_WorldImagery = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest
 var bcLibrary= L.marker( [38.818476078499145, -77.16867159476809] ).addTo(map);
 bcLibrary.bindPopup("<b>TJHSST</b>");
 Esri_WorldImagery.addTo(map);
-
-
