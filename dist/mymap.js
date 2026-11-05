@@ -29,7 +29,7 @@ fetch('dist/stops.json')
         stops.forEach(function (stop) {
             var marker = L.marker([stop.latitude, stop.longitude]).addTo(map);
             var popupContent = document.createElement('b');
-            popupContent.textContent = stop.stopName;
+            popupContent.textContent = `${stop.stopName} (${stop.studentcounts})`;
             marker.bindPopup(popupContent);
             markerLocations.push([stop.latitude, stop.longitude]);
         });

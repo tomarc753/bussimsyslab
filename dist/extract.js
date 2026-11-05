@@ -11,14 +11,15 @@ for (const row of rows) {
     const stopName = String(row.stop_name || '').trim();
     const latitude = Number(row.latitude);
     const longitude = Number(row.longitude);
+    const studentcounts = Number(row.student_counts);
 
-    if (!stopName || !Number.isFinite(latitude) || !Number.isFinite(longitude)) {
+    if (!stopName || !Number.isFinite(latitude) || !Number.isFinite(longitude) || !Number.isFinite(studentcounts)) {
         continue;
     }
 
-    const key = `${stopName}\0${latitude}\0${longitude}`;
+    const key = `${stopName}\0${latitude}\0${longitude}\0${studentcounts}`;
     if (!stopsByLocation.has(key)) {
-        stopsByLocation.set(key, { stopName, latitude, longitude });
+        stopsByLocation.set(key, { stopName, latitude, longitude, studentcounts });
     }
 }
 

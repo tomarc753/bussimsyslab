@@ -37,7 +37,13 @@
         }
 
         #busstats {
-            width: 220px;
+            width: 200px;
+            height: 580px;
+            resize: vertical;
+        }
+
+        #logs {
+            width: 200px;
             height: 580px;
             resize: vertical;
         }
@@ -61,12 +67,6 @@
             height: 50px;
         }
 
-        #logs {
-            width: 220px;
-            height: 400px;
-            box-sizing: border-box;
-        }
-
         #incident {
             background-color: red;
             color: white;
@@ -77,10 +77,12 @@
     <h1>Bus Reroute Simulation</h1>
 
     <div class="map-panel">
+        <div class="map-sidebar">
+            <input id="logs" type="text" placeholder="Simulation Logs" readonly/>
+        </div>
         <div id="map"></div>
         <div class="map-sidebar">
             <input id="busstats" type="text" placeholder="Bus Statistics" readonly/>
-            <input id="logs" type="text" placeholder="Simulation Logs" readonly/>
         </div>
     </div>
 
