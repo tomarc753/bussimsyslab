@@ -24,6 +24,12 @@
             margin-bottom: 20px;
         }
 
+        .map-sidebar {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
         #map {
             width: 900px;
             height: 580px;
@@ -43,16 +49,27 @@
             margin-bottom: 20px;
         }
 
+        .simulation-actions {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
         button, select {
             width: 215px;
             height: 50px;
         }
 
         #logs {
-            display: flex;
             width: 220px;
-            height: 380px;
-            margin: 20px;
+            height: 400px;
+            box-sizing: border-box;
+        }
+
+        #incident {
+            background-color: red;
+            color: white;
         }
     </style>
 </head>
@@ -61,7 +78,10 @@
 
     <div class="map-panel">
         <div id="map"></div>
-        <input id="busstats" type="text" placeholder="Bus Statistics" readonly/>
+        <div class="map-sidebar">
+            <input id="busstats" type="text" placeholder="Bus Statistics" readonly/>
+            <input id="logs" type="text" placeholder="Simulation Logs" readonly/>
+        </div>
     </div>
 
     <h2>Simulation Controls</h2>
@@ -84,10 +104,12 @@
             <option value="5">5x</option>
         </select>
 
-        <input id="logs" type="text" placeholder="Simulation Logs" readonly/>
     </div>
 
-    <button id="incident" style="display: block; background-color: red; color: white; margin: 20px auto;">Trigger Incident</button>
+    <div class="simulation-actions">
+        <button id="incident">Trigger Incident</button>
+    </div>
+
     <script src="dist/leaflet.js"></script>
     <script src="dist/mymap.js"></script>
     <script src="dist/simulation.js"></script>
