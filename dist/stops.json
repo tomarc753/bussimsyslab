@@ -2,211 +2,253 @@
   {
     "stopName": "SOUTH COUNTY HIGH SCHOOL",
     "latitude": 38.717428,
-    "longitude": -77.240728
+    "longitude": -77.240728,
+    "studentCounts": 29
   },
   {
     "stopName": "ISLAND CREEK ELEMENTARY/SACC",
     "latitude": 38.74519,
-    "longitude": -77.1685
+    "longitude": -77.1685,
+    "studentCounts": 17
   },
   {
     "stopName": "PLUM CENTER",
     "latitude": 38.8058,
-    "longitude": -77.1817
+    "longitude": -77.1817,
+    "studentCounts": 6
   },
   {
     "stopName": "THOMAS JEFFERSON HIGH",
     "latitude": 38.81992,
-    "longitude": -77.16801
+    "longitude": -77.16801,
+    "studentCounts": 878
   },
   {
     "stopName": "SANDBURG MIDDLE",
     "latitude": 38.7288,
-    "longitude": -77.0615
+    "longitude": -77.0615,
+    "studentCounts": 19
   },
   {
     "stopName": "BELVOIR LIBRARY",
     "latitude": 38.69216,
-    "longitude": -77.13744
+    "longitude": -77.13744,
+    "studentCounts": 4
   },
   {
     "stopName": "VERNONWOODS ELEM",
     "latitude": 38.74233,
-    "longitude": -77.09996
+    "longitude": -77.09996,
+    "studentCounts": 17
   },
   {
     "stopName": "FORESTDALE ELEMENTARY",
     "latitude": 38.7765,
-    "longitude": -77.17012
+    "longitude": -77.17012,
+    "studentCounts": 15
   },
   {
     "stopName": "ROSE HILL ELEMENTARY / SACC",
     "latitude": 38.7823,
-    "longitude": -77.11681
+    "longitude": -77.11681,
+    "studentCounts": 28
   },
   {
     "stopName": "CANTERBURY WOODS ELEMENTARY",
     "latitude": 38.82016,
-    "longitude": -77.2497
+    "longitude": -77.2497,
+    "studentCounts": 36
   },
   {
     "stopName": "GALLOW THORS",
     "latitude": 38.8524,
-    "longitude": -77.2023
+    "longitude": -77.2023,
+    "studentCounts": 6
   },
   {
     "stopName": "GEORGE MASON LIBRARY",
     "latitude": 38.8274251,
-    "longitude": -77.1862695
+    "longitude": -77.1862695,
+    "studentCounts": 15
   },
   {
     "stopName": "CARDINAL FOREST ELEM/SACC",
     "latitude": 38.7919055,
-    "longitude": -77.2401175
+    "longitude": -77.2401175,
+    "studentCounts": 62
   },
   {
     "stopName": "KINGS PARK LIBRARY",
     "latitude": 38.80722,
-    "longitude": -77.2565
+    "longitude": -77.2565,
+    "studentCounts": 37
   },
   {
     "stopName": "POWELL ELEMENTARY",
     "latitude": 38.84613,
-    "longitude": -77.407831
+    "longitude": -77.407831,
+    "studentCounts": 64
   },
   {
     "stopName": "CUB RUN ELEMENTARY",
     "latitude": 38.86514,
-    "longitude": -77.45842
+    "longitude": -77.45842,
+    "studentCounts": 19
   },
   {
     "stopName": "GREENBRIAR WEST ELEMENTARY",
     "latitude": 38.87648,
-    "longitude": -77.40538
+    "longitude": -77.40538,
+    "studentCounts": 0
   },
   {
     "stopName": "FRED CRABTREE PARK",
     "latitude": 38.9129732,
-    "longitude": -77.3607763
+    "longitude": -77.3607763,
+    "studentCounts": 6
   },
   {
     "stopName": "LEES ELEM",
     "latitude": 38.8904107,
-    "longitude": -77.4111217
+    "longitude": -77.4111217,
+    "studentCounts": 35
   },
   {
     "stopName": "OAK HILL ELEM",
     "latitude": 38.9131,
-    "longitude": -77.4088
+    "longitude": -77.4088,
+    "studentCounts": 26
   },
   {
     "stopName": "WAPLES MILL ELEM",
     "latitude": 38.877,
-    "longitude": -77.3445
+    "longitude": -77.3445,
+    "studentCounts": 74
   },
   {
     "stopName": "OAK VIEW ES",
     "latitude": 38.81896,
-    "longitude": -77.30989
+    "longitude": -77.30989,
+    "studentCounts": 43
   },
   {
     "stopName": "MOSAIC ELEMENTARY",
     "latitude": 38.8631,
-    "longitude": -77.2644
+    "longitude": -77.2644,
+    "studentCounts": 37
   },
   {
     "stopName": "ALLEN ST",
     "latitude": 38.8683,
-    "longitude": -77.2091
+    "longitude": -77.2091,
+    "studentCounts": 14
   },
   {
     "stopName": "WESTLAWN ELEM",
     "latitude": 38.862637,
-    "longitude": -77.185604
+    "longitude": -77.185604,
+    "studentCounts": 7
   },
   {
     "stopName": "WILSON LIBRARY",
     "latitude": 38.85127,
-    "longitude": -77.14299
+    "longitude": -77.14299,
+    "studentCounts": 16
   },
   {
     "stopName": "GREENBRIAR WEST ELEMENTARY",
     "latitude": 38.8719326,
-    "longitude": -77.3941956
+    "longitude": -77.3941956,
+    "studentCounts": 63
   },
   {
     "stopName": "FREEDOM HILL ELEMENTARY",
     "latitude": 38.91071,
-    "longitude": -77.22968
+    "longitude": -77.22968,
+    "studentCounts": 71
   },
   {
     "stopName": "WESTCHESTER",
     "latitude": 38.9038,
-    "longitude": -77.2341
+    "longitude": -77.2341,
+    "studentCounts": 1
   },
   {
     "stopName": "CUNNINGHAM PARK ES / SACC",
     "latitude": 38.8913,
-    "longitude": -77.2483
+    "longitude": -77.2483,
+    "studentCounts": 26
   },
   {
     "stopName": "LOUISE ARCHER ELEMENTARY",
     "latitude": 38.89915,
-    "longitude": -77.277189
+    "longitude": -77.277189,
+    "studentCounts": 42
   },
   {
     "stopName": "STRATTON WOODS PARK",
     "latitude": 38.943254,
-    "longitude": -77.388397
+    "longitude": -77.388397,
+    "studentCounts": 23
   },
   {
     "stopName": "SOUTH LAKES HIGH",
     "latitude": 38.9324,
-    "longitude": -77.3395
+    "longitude": -77.3395,
+    "studentCounts": 10
   },
   {
     "stopName": "LAKE ANNE ELEMENTARY",
     "latitude": 38.96533,
-    "longitude": -77.34666
+    "longitude": -77.34666,
+    "studentCounts": 10
   },
   {
     "stopName": "SPRING HILL ELEM",
     "latitude": 38.9391379,
-    "longitude": -77.2290397
+    "longitude": -77.2290397,
+    "studentCounts": 60
   },
   {
     "stopName": "THOMAS JEFFERSON HIGH",
     "latitude": 38.9391379,
-    "longitude": -77.2290397
+    "longitude": -77.2290397,
+    "studentCounts": 314
   },
   {
     "stopName": "DOLLEY MADISON LIBRARY",
     "latitude": 38.9396,
-    "longitude": -77.1845
+    "longitude": -77.1845,
+    "studentCounts": 21
   },
   {
     "stopName": "HAYCOCK ELEM",
     "latitude": 38.90414,
-    "longitude": -77.17343
+    "longitude": -77.17343,
+    "studentCounts": 94
   },
   {
     "stopName": "PIMMIT HILLS CENTER",
     "latitude": 38.91659,
-    "longitude": -77.20496
+    "longitude": -77.20496,
+    "studentCounts": 30
   },
   {
     "stopName": "FORESTVILLE ELEMENTARY (SSE)",
     "latitude": 38.99364,
-    "longitude": -77.32838
+    "longitude": -77.32838,
+    "studentCounts": 36
   },
   {
     "stopName": "MCLEAN HIGH",
     "latitude": 38.9233,
-    "longitude": -77.1853
+    "longitude": -77.1853,
+    "studentCounts": 37
   },
   {
     "stopName": "McNAIR UPPER ELEM",
     "latitude": 38.9472231,
-    "longitude": -77.4034527
+    "longitude": -77.4034527,
+    "studentCounts": 36
   }
 ]
