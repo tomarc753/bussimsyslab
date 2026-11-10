@@ -21,7 +21,7 @@
     "stopName": "THOMAS JEFFERSON HIGH",
     "latitude": 38.81992,
     "longitude": -77.16801,
-    "studentCounts": 878
+    "studentCounts": 1192
   },
   {
     "stopName": "SANDBURG MIDDLE",
@@ -208,12 +208,6 @@
     "latitude": 38.9391379,
     "longitude": -77.2290397,
     "studentCounts": 60
-  },
-  {
-    "stopName": "THOMAS JEFFERSON HIGH",
-    "latitude": 38.9391379,
-    "longitude": -77.2290397,
-    "studentCounts": 314
   },
   {
     "stopName": "DOLLEY MADISON LIBRARY",
