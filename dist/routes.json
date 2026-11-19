@@ -1,0 +1,674 @@
+[
+  {
+    "routeName": "JT-100 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "SOUTH COUNTY HIGH SCHOOL",
+        "latitude": 38.717428,
+        "longitude": -77.240728,
+        "studentCounts": 29
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "ISLAND CREEK ELEMENTARY/SACC",
+        "latitude": 38.74519,
+        "longitude": -77.1685,
+        "studentCounts": 17
+      },
+      {
+        "stopNumb": 3,
+        "stopName": "PLUM CENTER",
+        "latitude": 38.8058,
+        "longitude": -77.1817,
+        "studentCounts": 6
+      },
+      {
+        "stopNumb": 4,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 52
+      }
+    ]
+  },
+  {
+    "routeName": "JT-101 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "SANDBURG MIDDLE",
+        "latitude": 38.7288,
+        "longitude": -77.0615,
+        "studentCounts": 0
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "BELVOIR LIBRARY",
+        "latitude": 38.69216,
+        "longitude": -77.13744,
+        "studentCounts": 4
+      },
+      {
+        "stopNumb": 3,
+        "stopName": "SANDBURG MIDDLE",
+        "latitude": 38.7288,
+        "longitude": -77.0615,
+        "studentCounts": 19
+      },
+      {
+        "stopNumb": 4,
+        "stopName": "VERNONWOODS ELEM",
+        "latitude": 38.74233,
+        "longitude": -77.09996,
+        "studentCounts": 17
+      },
+      {
+        "stopNumb": 5,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 40
+      }
+    ]
+  },
+  {
+    "routeName": "JT-102 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "FORESTDALE ELEMENTARY",
+        "latitude": 38.7765,
+        "longitude": -77.17012,
+        "studentCounts": 15
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "ROSE HILL ELEMENTARY / SACC",
+        "latitude": 38.7823,
+        "longitude": -77.11681,
+        "studentCounts": 28
+      },
+      {
+        "stopNumb": 3,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 43
+      }
+    ]
+  },
+  {
+    "routeName": "JT-201 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "CANTERBURY WOODS ELEMENTARY",
+        "latitude": 38.82016,
+        "longitude": -77.2497,
+        "studentCounts": 36
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "GALLOW THORS",
+        "latitude": 38.8524,
+        "longitude": -77.2023,
+        "studentCounts": 6
+      },
+      {
+        "stopNumb": 3,
+        "stopName": "GEORGE MASON LIBRARY",
+        "latitude": 38.8274251,
+        "longitude": -77.1862695,
+        "studentCounts": 15
+      },
+      {
+        "stopNumb": 4,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 57
+      }
+    ]
+  },
+  {
+    "routeName": "JT-202 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "CARDINAL FOREST ELEM/SACC",
+        "latitude": 38.7919055,
+        "longitude": -77.2401175,
+        "studentCounts": 62
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 62
+      }
+    ]
+  },
+  {
+    "routeName": "JT-203 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "KINGS PARK LIBRARY",
+        "latitude": 38.80722,
+        "longitude": -77.2565,
+        "studentCounts": 37
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 37
+      }
+    ]
+  },
+  {
+    "routeName": "JT-300 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "POWELL ELEMENTARY",
+        "latitude": 38.84613,
+        "longitude": -77.407831,
+        "studentCounts": 64
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 64
+      }
+    ]
+  },
+  {
+    "routeName": "JT-302 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "CUB RUN ELEMENTARY",
+        "latitude": 38.86514,
+        "longitude": -77.45842,
+        "studentCounts": 19
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "GREENBRIAR WEST ELEMENTARY",
+        "latitude": 38.87648,
+        "longitude": -77.40538,
+        "studentCounts": 0
+      },
+      {
+        "stopNumb": 3,
+        "stopName": "POWELL ELEMENTARY",
+        "latitude": 38.84613,
+        "longitude": -77.407831,
+        "studentCounts": 0
+      },
+      {
+        "stopNumb": 4,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 19
+      }
+    ]
+  },
+  {
+    "routeName": "JT-303 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "FRED CRABTREE PARK",
+        "latitude": 38.9129732,
+        "longitude": -77.3607763,
+        "studentCounts": 6
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 6
+      }
+    ]
+  },
+  {
+    "routeName": "JT-304 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "LEES ELEM",
+        "latitude": 38.8904107,
+        "longitude": -77.4111217,
+        "studentCounts": 35
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 35
+      }
+    ]
+  },
+  {
+    "routeName": "JT-305 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "OAK HILL ELEM",
+        "latitude": 38.9131,
+        "longitude": -77.4088,
+        "studentCounts": 26
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 26
+      }
+    ]
+  },
+  {
+    "routeName": "JT-306 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "WAPLES MILL ELEM",
+        "latitude": 38.877,
+        "longitude": -77.3445,
+        "studentCounts": 0
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 0
+      }
+    ]
+  },
+  {
+    "routeName": "JT-307 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "WAPLES MILL ELEM",
+        "latitude": 38.877,
+        "longitude": -77.3445,
+        "studentCounts": 74
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 74
+      }
+    ]
+  },
+  {
+    "routeName": "JT-308 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "OAK VIEW ES",
+        "latitude": 38.81896,
+        "longitude": -77.30989,
+        "studentCounts": 43
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 43
+      }
+    ]
+  },
+  {
+    "routeName": "JT-309 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "MOSAIC ELEMENTARY",
+        "latitude": 38.8631,
+        "longitude": -77.2644,
+        "studentCounts": 37
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "ALLEN ST",
+        "latitude": 38.8683,
+        "longitude": -77.2091,
+        "studentCounts": 14
+      },
+      {
+        "stopNumb": 3,
+        "stopName": "WESTLAWN ELEM",
+        "latitude": 38.862637,
+        "longitude": -77.185604,
+        "studentCounts": 7
+      },
+      {
+        "stopNumb": 4,
+        "stopName": "WILSON LIBRARY",
+        "latitude": 38.85127,
+        "longitude": -77.14299,
+        "studentCounts": 16
+      },
+      {
+        "stopNumb": 5,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 74
+      }
+    ]
+  },
+  {
+    "routeName": "JT-310 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "GREENBRIAR WEST ELEMENTARY",
+        "latitude": 38.8719326,
+        "longitude": -77.3941956,
+        "studentCounts": 63
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 63
+      }
+    ]
+  },
+  {
+    "routeName": "JT-400 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "FREEDOM HILL ELEMENTARY",
+        "latitude": 38.91071,
+        "longitude": -77.22968,
+        "studentCounts": 0
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 0
+      }
+    ]
+  },
+  {
+    "routeName": "JT-401 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "WESTCHESTER",
+        "latitude": 38.9038,
+        "longitude": -77.2341,
+        "studentCounts": 1
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "CUNNINGHAM PARK ES / SACC",
+        "latitude": 38.8913,
+        "longitude": -77.2483,
+        "studentCounts": 26
+      },
+      {
+        "stopNumb": 3,
+        "stopName": "LOUISE ARCHER ELEMENTARY",
+        "latitude": 38.89915,
+        "longitude": -77.277189,
+        "studentCounts": 42
+      },
+      {
+        "stopNumb": 4,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 69
+      }
+    ]
+  },
+  {
+    "routeName": "JT-402 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "STRATTON WOODS PARK",
+        "latitude": 38.943254,
+        "longitude": -77.388397,
+        "studentCounts": 23
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 23
+      }
+    ]
+  },
+  {
+    "routeName": "JT-403 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "SOUTH LAKES HIGH",
+        "latitude": 38.9324,
+        "longitude": -77.3395,
+        "studentCounts": 10
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "LAKE ANNE ELEMENTARY",
+        "latitude": 38.96533,
+        "longitude": -77.34666,
+        "studentCounts": 10
+      },
+      {
+        "stopNumb": 3,
+        "stopName": "FREEDOM HILL ELEMENTARY",
+        "latitude": 38.91071,
+        "longitude": -77.22968,
+        "studentCounts": 71
+      },
+      {
+        "stopNumb": 4,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 91
+      }
+    ]
+  },
+  {
+    "routeName": "JT-404 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "SPRING HILL ELEM",
+        "latitude": 38.9391379,
+        "longitude": -77.2290397,
+        "studentCounts": 60
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 60
+      }
+    ]
+  },
+  {
+    "routeName": "JT-405 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "DOLLEY MADISON LIBRARY",
+        "latitude": 38.9396,
+        "longitude": -77.1845,
+        "studentCounts": 21
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "HAYCOCK ELEM",
+        "latitude": 38.90414,
+        "longitude": -77.17343,
+        "studentCounts": 10
+      },
+      {
+        "stopNumb": 3,
+        "stopName": "PIMMIT HILLS CENTER",
+        "latitude": 38.91659,
+        "longitude": -77.20496,
+        "studentCounts": 30
+      },
+      {
+        "stopNumb": 4,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 61
+      }
+    ]
+  },
+  {
+    "routeName": "JT-406 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "FORESTVILLE ELEMENTARY (SSE)",
+        "latitude": 38.99364,
+        "longitude": -77.32838,
+        "studentCounts": 0
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 0
+      }
+    ]
+  },
+  {
+    "routeName": "JT-407 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "HAYCOCK ELEM",
+        "latitude": 38.90414,
+        "longitude": -77.17343,
+        "studentCounts": 60
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 60
+      }
+    ]
+  },
+  {
+    "routeName": "JT-408 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "MCLEAN HIGH",
+        "latitude": 38.9233,
+        "longitude": -77.1853,
+        "studentCounts": 37
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "HAYCOCK ELEM",
+        "latitude": 38.90414,
+        "longitude": -77.17343,
+        "studentCounts": 24
+      },
+      {
+        "stopNumb": 3,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 61
+      }
+    ]
+  },
+  {
+    "routeName": "JT-409 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "McNAIR UPPER ELEM",
+        "latitude": 38.9472231,
+        "longitude": -77.4034527,
+        "studentCounts": 36
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 36
+      }
+    ]
+  },
+  {
+    "routeName": "JT-410 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "FORESTVILLE ELEMENTARY (SSE)",
+        "latitude": 38.99364,
+        "longitude": -77.32838,
+        "studentCounts": 36
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 36
+      }
+    ]
+  },
+  {
+    "routeName": "JT-411 AM",
+    "stops": [
+      {
+        "stopNumb": 1,
+        "stopName": "LOUISE ARCHER ELEMENTARY",
+        "latitude": 38.89915,
+        "longitude": -77.277189,
+        "studentCounts": 0
+      },
+      {
+        "stopNumb": 2,
+        "stopName": "THOMAS JEFFERSON HIGH",
+        "latitude": 38.81992,
+        "longitude": -77.16801,
+        "studentCounts": 0
+      }
+    ]
+  }
+]
