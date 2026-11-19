@@ -28,6 +28,11 @@ var busIcon = L.icon({
 var depotIcon = L.icon({
     iconUrl: 'dist/images/depot-icon.png',
     shadowUrl: 'dist/images/marker-shadow.png',
+    iconSize: [25, 41],
+    iconAnchor: [18, 59],
+    shadowSize: [41, 41],
+    shadowAnchor: [13, 41],
+    popupAnchor: [0, -52]
 
 });
 var busLatitudeOffset = 0.00058; // avoid overlap
