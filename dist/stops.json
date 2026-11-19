@@ -99,7 +99,7 @@
     "stopName": "GREENBRIAR WEST ELEMENTARY",
     "latitude": 38.87648,
     "longitude": -77.40538,
-    "studentCounts": 0
+    "studentCounts": 63
   },
   {
     "stopName": "FRED CRABTREE PARK",
@@ -154,12 +154,6 @@
     "latitude": 38.85127,
     "longitude": -77.14299,
     "studentCounts": 16
-  },
-  {
-    "stopName": "GREENBRIAR WEST ELEMENTARY",
-    "latitude": 38.8719326,
-    "longitude": -77.3941956,
-    "studentCounts": 63
   },
   {
     "stopName": "FREEDOM HILL ELEMENTARY",
